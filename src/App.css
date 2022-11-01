@@ -1,3 +1,42 @@
+
+.Container{
+  width: 50%;
+  margin: 20px 500px;
+  text-align: center;
+  align-items: center;
+}
+
+.round{
+  width: 50px;
+  border-radius: 50px;
+}
+
+.round img{
+  width: 100px;
+}
+
+.Link{
+  display: block;
+}
+
+.Mrg{
+  margin: 10px 0;
+}
+
+a{
+  /* display:flex; */
+  /* flex-direction: ; */
+  /* background-color:#61dafb; */
+  border: none;
+  text-decoration: none;
+  color:black;
+  /* margin: 10px 0; */
+}
+
+.Dflex{
+  display: flex;
+}
+
 .App {
   text-align: center;
 }
