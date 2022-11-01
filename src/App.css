@@ -9,6 +9,10 @@
   width: 20%;
 }
 
+.Clr-txt{
+  color: #667085;
+}
+
 .Dflex{
   display: flex;
   align-items: center;
